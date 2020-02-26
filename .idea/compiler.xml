@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="HotItemsAnalysis" />
+        <module name="LoginFailDetect" />
+        <module name="MarketAnalysisi" />
+        <module name="NetWorkFlowAnalysis" />
+        <module name="OrderTimeOut" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="HotItemsAnalysis" target="1.5" />
+      <module name="LoginFailDetect" target="1.5" />
+      <module name="MarketAnalysisi" target="1.5" />
+      <module name="NetWorkFlowAnalysis" target="1.5" />
+      <module name="OrderTimeOut" target="1.5" />
+      <module name="userBehaviorAnalysis" target="1.5" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
